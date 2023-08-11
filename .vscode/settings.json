@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.editor.scrollToSwitchTabs": true
+}
